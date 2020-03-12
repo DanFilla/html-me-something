@@ -9,3 +9,11 @@ div {
 div.title {
   text-align: center;
 }
+
+ul {
+  list-style-type: square;
+}
+
+#copy{
+  background-color: violet;
+}
